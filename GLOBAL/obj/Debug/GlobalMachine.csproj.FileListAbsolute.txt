@@ -1,0 +1,5 @@
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\Global.exe.config
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\Global.exe
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\Global.pdb
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\obj\Debug\Global.exe
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\obj\Debug\Global.pdb

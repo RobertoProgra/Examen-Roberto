@@ -1,0 +1,13 @@
+C:\Users\jorge.aguilar\Documents\CC\CA4\CA4\bin\Debug\CA4.exe.config
+C:\Users\jorge.aguilar\Documents\CC\CA4\CA4\bin\Debug\CA4.exe
+C:\Users\jorge.aguilar\Documents\CC\CA4\CA4\bin\Debug\CA4.pdb
+C:\Users\jorge.aguilar\Documents\CC\CA4\CA4\obj\Debug\CA4.csprojResolveAssemblyReference.cache
+C:\Users\jorge.aguilar\Documents\CC\CA4\CA4\obj\Debug\CA4.exe
+C:\Users\jorge.aguilar\Documents\CC\CA4\CA4\obj\Debug\CA4.pdb
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\CA4.exe.config
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\obj\Debug\CA4.exe
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\obj\Debug\CA4.pdb
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\CA4.exe
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\CA4.pdb
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\obj\Debug\CA4.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\CA4-master\CA4-master\CA4\bin\Debug\Global.exe.config
